@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Dhanesh Ramachandram"
-description              : &description "personal description"
+description              : &description "Deep Learning Researcher"
 url                      : https://dhaneshr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dhaneshr/dhaneshr.github.io"
@@ -83,38 +83,21 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "Toronto"
+  employer         : "http://vectorinstitute.ai"
+  googlescholar    : "https://scholar.google.ca/citations?user=0nVlbNgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  flickr           : "http://flickr.com/dhaneshr"
   github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  linkedin         : "http://linked.in/dhaneshr"
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+
 
 
 # Reading Files
