@@ -14,3 +14,5 @@ My expertise spans applied machine learning and deep learning for healthcare, in
 I am currently an **Applied Machine Learning Scientist &mdash; Health Lead** at the [Vector Institute for AI](https://vectorinstitute.ai) in Toronto, and an **Adjunct Professor** in the School of Engineering at the [University of Guelph](https://www.uoguelph.ca). Previously, I was Staff Machine Learning Scientist at [Swift Medical](https://www.swiftmedical.com), where I led the research and development of the earliest known commercial implementation of a deep learning-based chronic wound segmentation model, deployed to over 4,100 healthcare facilities across the US and Canada.
 
 For a complete list of my publications, see the [Publications](/publications/) page or my [Google Scholar profile](https://scholar.google.com/citations?user=0nVlbNgAAAAJ&hl=en). For a full employment history and technical skills summary, see my [CV](/cv/).
+
+Outside of work, I'm an enthusiastic photographer. You can find my photos on [Instagram](https://instagram.com/the_real_dhaneshr) and [Flickr](https://www.flickr.com/dhaneshr).
