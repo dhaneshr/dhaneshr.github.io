@@ -30,7 +30,7 @@ Experience
   * Scientific advisor for a clinical Text-to-SQL system: conducted cohort evaluation and literature review, and built a reference LightRAG-based implementation adopted by the delivery team.
   * Scientific advisor for a surgeme classification and needle tracking project: building a model of action classification for surgical video and tracking needle-keypoints for robot-assisted surgery.
   * Contributed statistical process control-based drift/monitoring methods to Cyclops, Vector's open-source healthcare ML monitoring toolkit.
-  * Technical lead on an EHR comorbidity analytics collaboration (CVD + T2D) with Boehringer-Ingelheim and Diabetes Action Canada, built a survival analysis model, resolving data and HPC infrastructure issues to enable model feature discovery.
+  * Technical lead on an EHR comorbidity analytics collaboration (CVD + T2D) with a major pharmaceutical company and Diabetes Action Canada, built a survival analysis model, resolving data and HPC infrastructure issues to enable model feature discovery.
   * Mentored 6+ research associates, interns and engineers on interpretable ML, survival analysis and LLM-based systems; supervised delivery of reference implementations and co-authored resulting papers/preprints.
   * Reviewed healthcare AI deployments as technical consultant for the Sunnybrook Vector AI Initiative.
 
