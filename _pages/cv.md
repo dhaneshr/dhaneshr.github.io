@@ -123,7 +123,3 @@ Honours and Awards
 Publications
 ======
 Please see the [Publications](/publications/) page for a complete, categorized list of journal articles, conference papers, books/chapters and technical reports, or refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0nVlbNgAAAAJ&hl=en) for citation metrics.
-
-References
-======
-Available upon request.
