@@ -6,5 +6,6 @@ permalink: /publication/2012-01-01-multimodal-concept-fusion-using-semantic-clos
 excerpt: "Journal of Multimedia Tools and Applications"
 date: 2012-01-01
 venue: "Journal of Multimedia Tools and Applications"
+paperurl: "https://doi.org/10.1007/s11042-010-0707-8"
 citation: "Abu-Shareha, A.A., Mandava, R., Khan, L., & Ramachandram, D. (2012). &quot;Multimodal Concept Fusion Using Semantic Closeness for Image Concept Disambiguation.&quot; <i>Journal of Multimedia Tools and Applications</i>. 61(1). pp. 69-86."
 ---

@@ -15,4 +15,4 @@ I am currently an **Applied Machine Learning Scientist &mdash; Health Lead** at 
 
 For a complete list of my publications, see the [Publications](/publications/) page or my [Google Scholar profile](https://scholar.google.com/citations?user=0nVlbNgAAAAJ&hl=en). For a full employment history and technical skills summary, see my [CV](/cv/).
 
-Outside of work, I'm an enthusiastic photographer. You can find my photos on [Instagram](https://instagram.com/the_real_dhaneshr) and [Flickr](https://www.flickr.com/dhaneshr).
+In my free time, I like to indulge in photography. You can find my photos on [Instagram](https://instagram.com/the_real_dhaneshr) and [Flickr](https://www.flickr.com/dhaneshr).

@@ -6,5 +6,6 @@ permalink: /publication/2004-01-01-neural-network-based-robot-visual-positioning
 excerpt: "Journal of Intelligent Manufacturing"
 date: 2004-01-01
 venue: "Journal of Intelligent Manufacturing"
+paperurl: "https://doi.org/10.1023/B:JIMS.0000018034.76366.b8"
 citation: "Ramachandram, D. & Mandava, R. (2004). &quot;Neural Network based Robot Visual Positioning for Intelligent Assembly.&quot; <i>Journal of Intelligent Manufacturing</i>. 15(2). pp. 219-231."
 ---
