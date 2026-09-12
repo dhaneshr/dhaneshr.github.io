@@ -3,23 +3,101 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Page"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Dhanesh Ramachandram, Ph.D."
 title_separator          : "-"
 name                     : &name "Dhanesh Ramachandram"
-description              : &description "Deep Learning Researcher"
-url                      : https://dhaneshr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Dhanesh Ramachandram's academic portfolio — Applied Machine Learning Scientist, Health Lead at the Vector Institute for AI"
+url                      : https://dhaneshr.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dhaneshr/dhaneshr.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Dhanesh Ramachandram, Ph.D."
+  pronouns         :
+  bio              : "Applied Machine Learning Scientist — Health Lead, Vector Institute for AI"
+  location         : "Guelph, ON, Canada"
+  employer         : "Vector Institute for AI"
+  uri              : "https://dhaneshr.github.io"
+  email            : "dhaneshr@gmail.com"
+
+  # Academic websites
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=0nVlbNgAAAAJ&hl=en"
+  inspire-hep      : # URL
+  impactstory      : # URL
+  orcid            : # URL
+  semantic         : # URL
+  ssrn             : # URL
+  pubmed           : # URL
+  researchgate     : # URL
+  scopus           : # URL
+  zotero           : # URL
+
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "dhaneshr"
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+
+  # Social media
+  artstation       : # Username
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : "dhaneshr"
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
+
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books &amp; Book Chapters'
+  manuscripts:
+    title: 'Journal Articles &amp; Technical Reports'
+  conferences:
+    title: 'Conference Papers'
+
+# Site Settings
+teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -47,13 +125,16 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -62,7 +143,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,31 +155,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Toronto"
-  employer         : "http://vectorinstitute.ai"
-  googlescholar    : "https://scholar.google.ca/citations?user=0nVlbNgAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           : "http://flickr.com/dhaneshr"
-  github           : "academicpages"
-  linkedin         : "http://linked.in/dhaneshr"
-  orcid            : "http://orcid.org/yourorcidurl"
-  twitter          : "replacethistwitterhandle"
-
 
 
 # Reading Files
@@ -110,23 +170,26 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - CHANGELOG
+  - Capfile
   - config
+  - Dockerfile
+  - Gemfile
+  - Gruntfile.js
   - gulpfile.js
+  - LICENSE
+  - local
   - log
   - node_modules
-  - package.json
+  - package.json*
+  - Rakefile
+  - README
   - tmp
   - vendor
 keep_files:
@@ -156,35 +219,15 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
-# Defaults
+# These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -192,15 +235,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -209,51 +243,38 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+      comments: false
+
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jemoji
+
+# Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 
@@ -287,7 +308,7 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
