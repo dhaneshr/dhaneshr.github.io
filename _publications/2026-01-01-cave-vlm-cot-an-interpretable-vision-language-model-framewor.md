@@ -6,5 +6,6 @@ permalink: /publication/2026-01-01-cave-vlm-cot-an-interpretable-vision-language
 excerpt: "arXiv preprint arXiv:2606.18385"
 date: 2026-01-01
 venue: "arXiv preprint arXiv:2606.18385"
+paperurl: "https://arxiv.org/abs/2606.18385"
 citation: "Rao, S., Raza, S., & Ramachandram, D. (2026). &quot;CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework.&quot; <i>arXiv preprint arXiv:2606.18385</i>."
 ---
