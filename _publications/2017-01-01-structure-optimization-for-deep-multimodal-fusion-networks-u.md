@@ -6,5 +6,6 @@ permalink: /publication/2017-01-01-structure-optimization-for-deep-multimodal-fu
 excerpt: "Proceedings of the 25th European Symposium on Artificial Neural Networks"
 date: 2017-01-01
 venue: "Proceedings of the 25th European Symposium on Artificial Neural Networks"
+paperurl: "https://arxiv.org/abs/1707.00750"
 citation: "Ramachandram, D., Lisicki, M., Shields, T., Amer, M., & Taylor, G. (2017). &quot;Structure optimization for deep multimodal fusion networks using graph-induced kernels.&quot; <i>Proceedings of the 25th European Symposium on Artificial Neural Networks</i>."
 ---

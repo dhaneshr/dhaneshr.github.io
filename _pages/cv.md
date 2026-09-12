@@ -13,6 +13,8 @@ redirect_from:
   <a href="{{ base_path }}/files/Dhanesh_Ramachandram_CV.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
 
+**Senior Member, IEEE**
+
 Professional Profile
 ======
 I am a seasoned machine learning researcher and applied scientist with a strong focus on healthcare AI: clinical dataset design, interpretable/explainable modeling, and translating research into deployed clinical systems. I have a proven track record in machine learning and medical image analysis research, having achieved an h-index of 17 with over 1,900 citations to date. My expertise spans applied machine learning and deep learning for healthcare, including clinical dataset curation and evaluation, deep survival analysis for competing clinical risks, interpretable/explainable AI (concept bottleneck models, neural additive models), LLM- and RAG-based clinical systems, and biomedical image analysis (semantic/instance segmentation, object detection, image classification). I have led clinical AI deployments at hospital sites, large-scale healthcare data annotation and extraction pipelines, and system-level interpretability research for agentic AI.

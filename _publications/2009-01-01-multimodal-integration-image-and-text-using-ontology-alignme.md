@@ -6,5 +6,6 @@ permalink: /publication/2009-01-01-multimodal-integration-image-and-text-using-o
 excerpt: "American Journal of Applied Sciences"
 date: 2009-01-01
 venue: "American Journal of Applied Sciences"
+paperurl: "https://doi.org/10.3844/ajassp.2009.1217.1224"
 citation: "Abu-Shareha, A.A., Mandava, R., & Ramachandram, D. (2009). &quot;Multimodal Integration (Image and Text) Using Ontology Alignment.&quot; <i>American Journal of Applied Sciences</i>. 6(6). pp. 1217-1224."
 ---
