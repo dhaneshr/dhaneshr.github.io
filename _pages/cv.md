@@ -76,7 +76,8 @@ Experience
   * Implemented various CNN architectures using Theano, Lasagne, and was an early adopter of TensorFlow. Experience using the SharcNet GPU clusters.
 
 * **Sep 2003 &ndash; Jun 2015: Associate Professor**
-  * [Universiti Sains Malaysia](https://www.usm.my), Penang, Malaysia
+  * School of Computer Sciences, [Universiti Sains Malaysia](https://www.usm.my), Penang, Malaysia
+  * Co-led the school's computer vision research group, with research focused on medical image analysis and understanding.
   * Conducted fundamental and applied research in computer vision, medical image analysis and image understanding, leading to numerous high-impact conference and peer-reviewed journal publications.
   * Successfully secured and managed numerous grants to support research.
   * Supervised student research at undergraduate and postgraduate level.
