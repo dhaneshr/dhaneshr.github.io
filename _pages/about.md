@@ -11,7 +11,7 @@ I work on machine learning for healthcare, with a focus on clinical dataset desi
 
 I am currently an **Applied Machine Learning Scientist &mdash; Health Lead** at the [Vector Institute for AI](https://vectorinstitute.ai) in Toronto, and an **Adjunct Professor** in the School of Engineering at the [University of Guelph](https://www.uoguelph.ca). Before that, I was Staff Machine Learning Scientist at [Swift Medical](https://www.swiftmedical.com), where I led development of a deep learning-based chronic wound segmentation model that is now used across more than 4,100 healthcare facilities in the US and Canada.
 
-Earlier in my career, before moving to Canada, I spent 12 years as an Associate Professor at the School of Computer Sciences, [Universiti Sains Malaysia](https://www.usm.my), where I co-led a computer vision research group working on medical image analysis and understanding.
+Earlier in my career, before moving to Canada, I spent 12 years as an Associate Professor at the School of Computer Sciences, Universiti Sains Malaysia, where I co-led a computer vision research group working on medical image analysis and understanding.
 
 My [CV](/cv/) has a complete employment history and technical background.
 
