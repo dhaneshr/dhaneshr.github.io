@@ -50,6 +50,7 @@ html[data-theme="dark"] {
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$background-lighter};
+  --global-sidebar-bg-color           : #{mix(#000, $primary-color, 88%)};
 
 }
 

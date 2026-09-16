@@ -12,6 +12,9 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  background-color: var(--global-sidebar-bg-color, var(--global-bg-color));
+  border-radius: $border-radius;
+  padding: 0.5em 1em;
 
   @media (orientation: portrait) {
     margin-top: 1em;

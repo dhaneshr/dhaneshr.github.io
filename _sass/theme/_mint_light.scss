@@ -54,6 +54,7 @@ $sidebar-screen-min-width   : 1024px;
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$lighter-primary-color};
+  --global-sidebar-bg-color           : #{mix(#fff, $primary-color, 92%)};
 
 }
 
