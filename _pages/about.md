@@ -13,8 +13,6 @@ I am currently an **Applied Machine Learning Scientist &mdash; Health Lead** at 
 
 Earlier in my career, before moving to Canada, I spent 12 years as an Associate Professor at the School of Computer Sciences, Universiti Sains Malaysia, where I co-led a computer vision research group working on medical image analysis and understanding.
 
-My [CV](/cv/) has a complete employment history and technical background.
-
 Recent Publications
 ======
 * Fraser, R.D.J. et al. (2026). "A Retrospective Analysis of Deep Tissue Pressure Injury Prevalence and Incidence Using a Large-scale Wound Care Database in Long-term Care Settings Across North America." *Advances in Skin & Wound Care*. [Link](https://doi.org/10.1097/asw.0000000000000488)
